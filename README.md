@@ -35,4 +35,4 @@ Aplikasi Android sederhana berbasis **Kotlin** yang menampilkan daftar makanan p
 
 1. **Clone Repositori Ini**:
    ```bash
-   git clone [https://github.com/username-kamu/DessertRecycleView.git](https://github.com/username-kamu/DessertRecycleView.git)
+   git clone [https://github.com/tsulsinisa14-maker/DessertRecycleView.git](https://github.com/tsulsinisa14-maker/DessertRecycleView.git)
